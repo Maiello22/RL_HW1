@@ -130,4 +130,3 @@ ros2 topic list
 Apache-2.0
 
 
-Così si fa un codice 
